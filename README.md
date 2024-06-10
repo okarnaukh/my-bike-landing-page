@@ -1,5 +1,5 @@
 My bike is a landing page that offers high quality bicycles for different purposes.
-HTML and SCSS were used in the project.
+BEM, HTML and SCSS were used in the project.
 
 How to run: 
 - npm i,
