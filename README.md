@@ -1,11 +1,29 @@
+# My bike landing
+
+## About
 My bike is a landing page that offers high quality bicycles for different purposes.
-BEM, HTML and SCSS were used in the project.
+
+
+## Technologies that were used
+- BEM,
+- HTML,
+- SCSS.
+
+
+## Getting started
+Node v14.21.3
 
 How to run: 
-- npm i,
-- npm start.
 
-Version of Node.js - 14
+```
+npm i
+npm start
+```
+
+Run `npm i` and wait until it downloads all the packages and finishes.
+
+Run `npm start` to open the App
+
 
 [DEMO LINK](https://okarnaukh.github.io/my-bike-landing-page/)
 
